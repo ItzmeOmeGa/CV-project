@@ -51,4 +51,4 @@ python src/main.py
 
 ## License
 
-MIT License
+GNU License
